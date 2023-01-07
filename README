@@ -1,7 +1,9 @@
-# Home Court Advantage in Stata
+Home Court Advantage on Free Throw Percentage
 
 This project aimed to see how away teams fared shooting free throws in NBA games. The hypothesis was that home court advantage is a measurable phenomenon. 
 
-#/n
+Data collected included attendance, distance from home stadium, number of all stars on the away team, and if the game is an in-conference contest. 
 
-Data collected included attendance, distance from home stadium, number of all stars on the away team, and if the game is an in-conference contest. Using STATA, each variable was tested individually and jointly for significance. The only variable found to have a significant effect on free throw percentage is Number of All Stars.
+Using STATA, each variable was tested individually and jointly for significance. 
+
+The only variable found to have a significant effect on free throw percentage is Number of All Stars.
